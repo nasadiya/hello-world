@@ -1,0 +1,7 @@
+{
+  "base":{
+    "data_path":"D:\\python projects\\",
+    "data_file_train":"train.csv",
+    "data_file_test":"test.csv"
+  }
+}
